@@ -4,6 +4,7 @@ Yemen Nighttime Lights Data
 This project looks into changes in nighttime illumination in Yemen before and after the escalation of the conflict (2012-2015) using VIIRS nighttime light imagery.
 
 Objective
+
 To examine how conflict and infrastructure disruption altered nighttime illumination patterns across Yemen.
 
  Tools Used
